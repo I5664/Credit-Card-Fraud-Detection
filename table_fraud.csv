@@ -1,0 +1,11 @@
+Features,User Inputs,Inferences from Analysis
+Transaction Month,1,Most fraudulent transactions occur in the second half of the year (i.e. between the months July and December)
+Transaction Type,Chip Transaction,Most of the fraudulent transactions happen online
+Amount,29.87,On an average the transaction amount of fraudulent transactions is $130 and that of Non-fraudulent transactions is $54
+Merchant City,Algiers,The offline fraudulent transactions frequently happened in the cities - Claremont and Corona
+Merchant State,NY,Most of the online and offline fraudulent transactions happened from the California State
+Has Chip,Yes,People holding with the chip found to make a fraudulent transaction
+User Zip,7070,"Most of the fraudulent transactions are found to happen with the cards issued to the users from zipcodes - 91792, 91750 and 11363 (i.e) South California, LaVerne California and South East Newyork"
+Current Age,71,People in the age group 43 - 81 were found to involve in fraudulent transactions
+Credit Limit,9700.0,Most of the Fraudulent transactions happened in the credit cards with Credit limit ranging from $16000 - $132000
+prediction,[0],asd
